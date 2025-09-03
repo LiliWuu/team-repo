@@ -22,6 +22,8 @@ hide: true
 <!--- Embedded Cascading Style Sheet (CSS) rules, 
         define how HTML elements look 
 --->
+<!--- test
+--->
 <style>
 
   /*CSS style rules for the id and class of the sprite...
